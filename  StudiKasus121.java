@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class StudiKasus121 {
+public class StudiKasus121 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
